@@ -1,5 +1,5 @@
 # Cálculo de meio de cultura Kirk
-
+''' Esse código faz o cálculo para a quantidade necessária de regeagentes no preparo do meio de cultura com base na quantidade de meio desejada em litros.'''
 
 Reagentes= {"Dextrose":"5","Extr.Levedura":"2","KH2PO4":"0.2","MgSO4":"0.05","CaCl2":"0.013","MnSO4":"0.016", "CuSO4":"0.0499" }
 
